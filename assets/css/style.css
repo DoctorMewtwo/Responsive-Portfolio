@@ -197,6 +197,8 @@ form
     border-style: solid;
     animation-name: DropIn;
     animation-duration: 2s;
+    width: 150px;
+    height: 150px;
 }
 
 .FirstImage
