@@ -225,6 +225,11 @@ form
     padding: 25px;
 }
 
+.resize{
+    height: 150px;
+    width: 150px;
+}
+
 @media only screen and (max-width : 980px)
 {
 
